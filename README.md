@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nand-kishor/nand-kishor/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nand-kishor-yadav/nand-kishor-yadav/output/snake.svg" alt="Snake animation" />
 
 ###
