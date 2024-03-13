@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nand Kishor and I'm a Full Stack  Developer, from Noida.</h2>
+<h2 align="center">Hi 👋! My name is Nand Kishor and I'm a Web Developer, from Noida.</h2>
 
 ###
 
