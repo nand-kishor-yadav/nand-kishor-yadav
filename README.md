@@ -4,40 +4,40 @@
   
   <div align="center">
     <a href="https://www.learn-c.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="margin: 10px" height="50" alt="c logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="margin: 10px;margin-right: 20px;" height="50" alt="c logo"  />
     </a>
     <a href="https://isocpp.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="margin: 10px" height="50" alt="cplusplus logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="margin: 10px;margin-right: 20px;" height="50" alt="cplusplus logo"  />
     </a>
     <a href="https://www.python.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin: 10px" height="50" alt="python logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin: 10px;margin-right: 20px;" height="50" alt="python logo"  />
     </a>
     <a href="https://docs.oracle.com/javase/8/docs/api/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin: 10px" height="50" alt="java logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin: 10px;margin-right: 20px;" height="50" alt="java logo"  />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 10px" height="50" alt="javascript logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 10px;margin-right: 20px;" height="50" alt="javascript logo"  />
     </a>
     <a href="https://html.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin: 10px" height="50" alt="html5 logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin: 10px;margin-right: 20px;" height="50" alt="html5 logo"  />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin: 10px" height="50" alt="css3 logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin: 10px;margin-right: 20px;" height="50" alt="css3 logo"  />
     </a>
     <a href="https://legacy.reactjs.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin: 10px" height="50" alt="react logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin: 10px;margin-right: 20px;" height="50" alt="react logo"  />
     </a>
     <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="margin: 10px"  height="50" alt="nodejs logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="margin: 10px;margin-right: 20px;"  height="50" alt="nodejs logo"  />
     </a>
     <a href="https://dev.mysql.com/doc/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin: 10px" height="50" alt="mysql logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin: 10px;margin-right: 20px;" height="50" alt="mysql logo"  />
     </a>
-    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux" />
+    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px;margin-right: 20px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux" />
       </a>  
-      <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" />
+      <a href="https://github.com/" target="_blank"><img style="margin: 10px;margin-right: 20px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" />
       </a>  
-      <a href="https://www.arduino.cc/" target=""><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" height="50" alt="Arduino" />
+      <a href="https://www.arduino.cc/" target=""><img style="margin: 10px;margin-right: 20px;" src="https://profilinator.rishav.dev/skills-assets/arduino.png" height="50" alt="Arduino" />
       </a>
   </div>
   
