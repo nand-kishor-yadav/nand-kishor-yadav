@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.learn-c.org/" target="_blank">
+  <a href="https://www.learn-c.org/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   </a>
