@@ -66,11 +66,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nand-kishor-yadav&show_icons=true&locale=en&layout=compact" alt="nand-kishor-yadav" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nand-kishor-yadav&show_icons=true&locale=en" alt="nand-kishor-yadav" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nand-kishor-yadav&" alt="nand-kishor-yadav" /></p>
-</div>
