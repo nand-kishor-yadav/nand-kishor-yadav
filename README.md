@@ -31,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://wa.me/+919548936099">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </a>
@@ -47,7 +47,7 @@
 <a href="https://t.me/nandkishor_3000">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 <a/>
-<a href="www.linkedin.com/in/nand-kishor-yadav-160935238">
+<a href="https://www.linkedin.com/in/nand-kishor-yadav-160935238">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 <a/>
 </div>
