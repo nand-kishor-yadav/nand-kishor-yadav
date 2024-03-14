@@ -6,89 +6,90 @@
     <h3 align="left">Skills✔️.</h3>
     <a href="https://www.learn-c.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-            style="margin: 10px;margin-right: 20px;" height="50" alt="c logo" />
+            style="padding: 20px; border-right: 2px solid white;" height="50" alt="c logo" />
     </a>
     <a href="https://isocpp.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-            style="margin: 10px;margin-right: 20px;" height="50" alt="cplusplus logo" />
+            style="padding: 20px; border-right: 2px solid white;" height="50" alt="cplusplus logo" />
     </a>
     <a href="https://www.python.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-            style="margin: 10px;margin-right: 20px;" height="50" alt="python logo" />
+            style="padding: 20px; border-right: 2px solid white;" height="50" alt="python logo" />
     </a>
     <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-            style="margin: 10px;margin-right: 20px;" height="50" alt="java logo" />
+            style="padding: 20px; border-right: 2px solid white;" height="50" alt="java logo" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-            style="margin: 10px;margin-right: 20px;" height="50" alt="javascript logo" />
+            style="padding: 20px; border-right: 2px solid white;" height="50" alt="javascript logo" />
     </a>
     <a href="https://html.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-            style="margin: 10px;margin-right: 20px;" height="50" alt="html5 logo" />
+            style="padding: 20px; border-right: 2px solid white;" height="50" alt="html5 logo" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-            style="margin: 10px;margin-right: 20px;" height="50" alt="css3 logo" />
+            style="padding: 20px; border-right: 2px solid white;" height="50" alt="css3 logo" />
     </a>
     <a href="https://legacy.reactjs.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-            style="margin: 10px;margin-right: 20px;" height="50" alt="react logo" />
+            style="padding: 20px; border-right: 2px solid white;" height="50" alt="react logo" />
     </a>
     <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-            style="margin: 10px;margin-right: 20px;" height="50" alt="nodejs logo" />
+            style="padding: 20px; border-right: 2px solid white;" height="50" alt="nodejs logo" />
     </a>
     <a href="https://dev.mysql.com/doc/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-            style="margin: 10px;margin-right: 20px;" height="50" alt="mysql logo" />
+            style="padding: 20px; border-right: 2px solid white;" height="50" alt="mysql logo" />
     </a>
-    <a href="https://github.com/" target="_blank"><img style="margin: 10px;margin-right: 20px;"
+    <a href="https://github.com/" target="_blank"><img style="padding: 20px; border-right: 2px solid white;"
             src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" />
     </a>
-    <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px;margin-right: 20px;"
+    <a href="https://www.arduino.cc/" target="_blank"><img style="padding: 20px; border-right: 2px solid white;"
             src="https://profilinator.rishav.dev/skills-assets/arduino.png" height="50" alt="Arduino" />
     </a>
-    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px;margin-right: 20px;"
+    <a href="https://www.linux.org/" target="_blank"><img style="padding: 20px; border-right: 2px solid white;"
             src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux" />
     </a>
-    <a href="https://learn.microsoft.com/en-in/docs/" target="_blank"><img style="margin: 10px;margin-right: 20px;"
+    <a href="https://learn.microsoft.com/en-in/docs/" target="_blank"><img style="padding: 20px; border-right: 2px solid white;"
             src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" height="50"
             alt="Windows" />
     </a>
     <a href="https://www.geeksforgeeks.org/basics-computer-networking/" target="_blank"><img
-            style="margin: 10px;margin-right: 20px;" src="https://freepngimg.com/save/16454-networking-png/800x600"
+            style="padding: 20px; border-right: 2px solid white;" src="https://freepngimg.com/save/16454-networking-png/800x600"
             height="50" alt="Computer Networking" />
     </a>
     <a href="https://www.cisco.com/c/en_in/products/security/firewalls/what-is-a-firewall.html" target="_blank"><img
-            style="margin: 10px;margin-right: 20px;"
+            style="padding: 20px; border-right: 2px solid white;"
             src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Firewall.png" height="50" alt="Firewall" />
     </a>
     <a href="https://resources.altium.com/design-documentation" target="_blank"><img
-            style="margin: 10px;margin-right: 20px;"
+            style="padding: 20px; border-right: 2px solid white;"
             src="https://img.freepik.com/free-vector/circuit-board-isometric-concept_1284-15916.jpg" height="50"
             alt="PCB" />
     </a>
     <a href="https://www.spiceworks.com/tech/tech-general/articles/what-are-embedded-systems/" target="_blank"><img
-            style="margin: 10px;margin-right: 20px;"
+            style="padding: 20px; border-right: 2px solid white;"
             src="https://media.geeksforgeeks.org/wp-content/uploads/20230207165358/System.png" height="50"
             alt="Embadded" />
     </a>
     <a href="https://www.polycase.com/techtalk/electronics-tips/what-is-a-programmable-logic-controller.html"
-        target="_blank"><img style="margin: 10px;margin-right: 20px;"
+        target="_blank"><img style="padding: 20px; border-right: 2px solid white;"
             src="https://www.maplesystems.com/Content/Images/LandingPages/PLC-Maple-Modular_H1.webp" height="50"
             alt="PLC" />
     </a>
-    <a href="https://builtin.com/internet-things" target="_blank"><img style="margin: 10px;margin-right: 20px;"
+    <a href="https://builtin.com/internet-things" target="_blank"><img style="padding: 20px; border-right: 2px solid white;"
             src="https://www.pngitem.com/pimgs/b/360-3600842_internet-of-things-iot-device-icon-transparent-hd.png"
             height="50" alt="IOT" />
     </a>
     <a href="https://www.croptracker.com/blog/drone-technology-in-agriculture.html" target="_blank"><img
-            style="margin: 10px;margin-right: 20px;" src="https://static.vecteezy.com/system/resources/thumbnails/016/475/401/small/transparent-drone-uav-in-flight-png.png" height="50"
-            alt="Drone Technology" />
+            style="padding: 20px; border-right: 2px solid white;"
+            src="https://static.vecteezy.com/system/resources/thumbnails/016/475/401/small/transparent-drone-uav-in-flight-png.png"
+            height="50" alt="Drone Technology" />
     </a>
-    <a href="https://ifr.org/" target="_blank"><img style="margin: 10px;margin-right: 20px;"
+    <a href="https://ifr.org/" target="_blank"><img style="padding: 20px; border-right: 2px solid white;"
             src="https://robodk.com/robot/img/Annin-Robotics-AR4-robot.png" height="50" alt="Robotics" />
     </a>
 </div>
@@ -193,3 +194,4 @@
     <h4 align="center">• RAMPS 1.4 Controller Board <br>• Battery management system (BMS) <br>• Arduino Shield
         <br>• Arduino Mini, Uno & Mega <br>• Bio Amplifier <br>• Relay Module
     </h4>
+</div>
