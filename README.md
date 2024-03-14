@@ -85,7 +85,7 @@
             height="50" alt="IOT" />
     </a>
     <a href="https://www.croptracker.com/blog/drone-technology-in-agriculture.html" target="_blank"><img
-            style="margin: 10px;margin-right: 20px;" src="https://pngimg.com/d/drone_PNG34.png" height="50"
+            style="margin: 10px;margin-right: 20px;" src="https://static.vecteezy.com/system/resources/thumbnails/016/475/401/small/transparent-drone-uav-in-flight-png.png" height="50"
             alt="Drone Technology" />
     </a>
     <a href="https://ifr.org/" target="_blank"><img style="margin: 10px;margin-right: 20px;"
