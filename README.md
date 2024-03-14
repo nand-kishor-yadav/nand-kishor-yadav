@@ -67,7 +67,7 @@
     </a>
     <a href="https://resources.altium.com/design-documentation" target="_blank"><img
             style="padding: 20px; border-right: 2px solid white;"
-            src="https://w7.pngwing.com/pngs/607/574/png-transparent-printed-circuit-board-flexible-electronics-electronic-circuit-amphenol-pcb-piezotronics-europe-gmbh-electronics-service-microcontroller.png" height="50"
+            src="https://e7.pngegg.com/pngimages/621/694/png-clipart-printed-circuit-board-electronic-circuit-computer-icons-integrated-circuits-chips-electronics-others-electronics-material-thumbnail.png" height="50"
             alt="PCB" />
     </a>
     <a href="https://www.spiceworks.com/tech/tech-general/articles/what-are-embedded-systems/" target="_blank"><img
