@@ -185,11 +185,11 @@
 
 <div align="center">
     <h3 align="left">Projects & Designs 🖥️✍.</h3>
-    <h4 align="left" style="margin-left: 200px;">• Hand made Servo Motor <br>• EMG Controlled Robotic arm <br>• Bio Amplifier <br>• Home
+    <h4 align="center">• Hand made Servo Motor <br>• EMG Controlled Robotic arm <br>• Bio Amplifier <br>• Home
         Automation
         <br>• Wireless home security system <br>• IOT Based Projects <br>• Quadcopter <br>• Gesture vocalizer <br>•
         3D Printer <br>• A.I. (Chatbot)
     </h4>
-    <h4 align="left" style="margin-left: 800px;margin-top: -270px;">• RAMPS 1.4 Controller Board <br>• Battery management system (BMS) <br>• Arduino Shield
+    <h4 align="center">• RAMPS 1.4 Controller Board <br>• Battery management system (BMS) <br>• Arduino Shield
         <br>• Arduino Mini, Uno & Mega <br>• Bio Amplifier <br>• Relay Module
     </h4>
