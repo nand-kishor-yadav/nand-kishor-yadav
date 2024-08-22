@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Nand Kishor and I'm a Web Developer, from Noida.</h2>
+<h2 align="center">Hi 👋! I'm Kishor.</h2>
 
 ###
 
