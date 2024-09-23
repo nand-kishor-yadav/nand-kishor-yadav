@@ -184,6 +184,7 @@
 
 <div align="center">
     <h3 align="left">Projects & Designs 🖥️✍.</h3>
+    <h4 align="center">• Android Automator <br>•Web App for Automator <br>• Web Scraper ></h4>
     <h4 align="center">• Hand made Servo Motor <br>• EMG Controlled Robotic arm <br>• Bio Amplifier <br>• Home
         Automation
         <br>• Wireless home security system <br>• IOT Based Projects <br>• Quadcopter <br>• Gesture vocalizer <br>•
