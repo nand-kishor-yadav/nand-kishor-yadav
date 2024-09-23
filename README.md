@@ -76,7 +76,7 @@
     </a>
     <a href="https://www.polycase.com/techtalk/electronics-tips/what-is-a-programmable-logic-controller.html"
         target="_blank"><img style="padding: 20px;"
-            src="[https://www.maplesystems.com/Content/Images/LandingPages/PLC-Maple-Modular_H1.webp](https://ipcsglobal.com/wp-content/uploads/2022/08/PLC-course-in-Mumbai.png)" height="50"
+            src="https://ipcsglobal.com/wp-content/uploads/2022/08/PLC-course-in-Mumbai.png" height="50"
             alt="PLC" title="PLC"/>
     </a>
     <a href="https://builtin.com/internet-things" target="_blank"><img style="padding: 20px;"
