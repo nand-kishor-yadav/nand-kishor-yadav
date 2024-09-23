@@ -40,6 +40,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
             style="padding: 20px;" height="50" alt="nodejs logo" title="Node.js"/>
     </a>
+    <a href="https://www.w3schools.com/php/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"
+            style="padding: 20px;" height="50" alt="mysql logo" title="php"/>
+    </a>
     <a href="https://dev.mysql.com/doc/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
             style="padding: 20px;" height="50" alt="mysql logo" title="MySQL"/>
