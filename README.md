@@ -58,7 +58,7 @@
             src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux" title="Linux"/>
     </a>
     <a href="https://learn.microsoft.com/en-in/docs/" target="_blank"><img style="padding: 20px;"
-            src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" height="50"
+            src="https://seeklogo.com/free-vector-logos/windows" height="50"
             alt="Windows" title="Windows"/>
     </a>
     <a href="https://www.geeksforgeeks.org/basics-computer-networking/" target="_blank"><img
