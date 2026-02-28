@@ -66,7 +66,7 @@ I am a **multidisciplinary engineer** blending software development and electron
 
 ## 💼 Professional Experience
 
-### 🚀 Developer @ [Necro Automations](https://necroautomations.com)
+### 🚀 Developer @ [Necro Automations]
 **2024 - Present** *(Promoted from Technical Support Engineer)*
 
 - Improved software stability by **40%**
@@ -74,21 +74,21 @@ I am a **multidisciplinary engineer** blending software development and electron
 - Backend development & automation systems
 - Cross-team collaboration
 
-### 🔧 Technical Support Engineer @ [Necro Automations](https://necroautomations.com)
+### 🔧 Technical Support Engineer @ [Necro Automations]
 **2023 - 2024**
 
 - Technical assistance & debugging
 - Client support & training
 - System maintenance and optimization
 
-### 📊 Research Analyst @ [MarkScan](https://markscan.in)
+### 📊 Research Analyst @ [MarkScan]
 **Jan 2023 - Mar 2023**
 
 - Data analysis and legal collaboration
 - Copyright investigation
 - Research documentation
 
-### 🎓 Electronics & PCB Design Trainer @ [APSD Innovation Infotech](https://apsdinnovation.com)
+### 🎓 Electronics & PCB Design Trainer @ [APSD Innovation Infotech]
 **Training Center**
 
 - Taught electronics fundamentals and PCB design workflows
