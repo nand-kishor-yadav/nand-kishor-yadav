@@ -1,200 +1,123 @@
-<h2 align="center">Hi 👋! I'm Kishor.</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Electronics+%26+Embedded+Engineer;Robotics+%26+Automation+Specialist" />
+</p>
 
-###
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+that+merge+hardware+and+software" />
+  </a>
+</p>
 
-<div align="center">
-    <h3 align="left">Skills✔️.</h3>
-    <a href="https://www.learn-c.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-            style="padding: 20px;" height="50" alt="c logo" title="C Programming Language" title="Programming C"/>
-    </a>
-    <a href="https://isocpp.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-            style="padding: 20px;" height="50" alt="cplusplus logo" title="C++"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-            style="padding: 20px;" height="50" alt="python logo" title="Python"/>
-    </a>
-    <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-            style="padding: 20px;" height="50" alt="java logo" title="Java"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-            style="padding: 20px;" height="50" alt="javascript logo" title="JavaScript"/>
-    </a>
-    <a href="https://html.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-            style="padding: 20px;" height="50" alt="html5 logo" title="HTML"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-            style="padding: 20px;" height="50" alt="css3 logo" title="CSS"/>
-    </a>
-    <a href="https://legacy.reactjs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-            style="padding: 20px;" height="50" alt="react logo" title="React.js"/>
-    </a>
-    <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-            style="padding: 20px;" height="50" alt="nodejs logo" title="Node.js"/>
-    </a>
-    <a href="https://www.w3schools.com/php/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"
-            style="padding: 20px;" height="50" alt="mysql logo" title="php"/>
-    </a>
-    <a href="https://dev.mysql.com/doc/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-            style="padding: 20px;" height="50" alt="mysql logo" title="MySQL"/>
-    </a>
-    <a href="https://github.com/" target="_blank"><img style="padding: 20px;"
-            src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" title="Git"/>
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank"><img style="padding: 20px;"
-            src="https://profilinator.rishav.dev/skills-assets/arduino.png" height="50" alt="Arduino" title="Arduino"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank"><img style="padding: 20px;"
-            src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux" title="Linux"/>
-    </a>
-    <a href="https://learn.microsoft.com/en-in/docs/" target="_blank"><img style="padding: 20px;"
-            src="https://images.seeklogo.com/logo-png/26/1/windows-10-icon-logo-png_seeklogo-267364.png" height="50"
-            alt="Windows" title="Windows"/>
-    </a>
-    <a href="https://www.geeksforgeeks.org/basics-computer-networking/" target="_blank"><img
-            style="padding: 20px;" src="https://freepngimg.com/save/16454-networking-png/800x600"
-            height="50" alt="Computer Networking" title="Computer Networking"/>
-    </a>
-    <a href="https://www.cisco.com/c/en_in/products/security/firewalls/what-is-a-firewall.html" target="_blank"><img
-            style="padding: 20px;"
-            src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Firewall.png" height="50" alt="Firewall" title="Firewall"/>
-    </a>
-    <a href="https://resources.altium.com/design-documentation" target="_blank"><img
-            style="padding: 20px;"src="https://img.freepik.com/free-vector/circuit-board-isometric-concept_1284-15916.jpg" height="50"
-            alt="PCB" title="PCB - Designing, Debugging, Testing"/>
-    </a>
-    <a href="https://www.spiceworks.com/tech/tech-general/articles/what-are-embedded-systems/" target="_blank"><img
-            style="padding: 20px;"
-            src="https://media.geeksforgeeks.org/wp-content/uploads/20230207165358/System.png" height="50"
-            alt="Embadded" title="Embadded System"/>
-    </a>
-    <a href="https://www.polycase.com/techtalk/electronics-tips/what-is-a-programmable-logic-controller.html"
-        target="_blank"><img style="padding: 20px;"
-            src="https://ipcsglobal.com/wp-content/uploads/2022/08/PLC-course-in-Mumbai.png" height="50"
-            alt="PLC" title="PLC"/>
-    </a>
-    <a href="https://builtin.com/internet-things" target="_blank"><img style="padding: 20px;"
-            src="https://www.pngitem.com/pimgs/b/360-3600842_internet-of-things-iot-device-icon-transparent-hd.png"
-            height="50" alt="IOT" title="IOT"/>
-    </a>
-    <a href="https://www.croptracker.com/blog/drone-technology-in-agriculture.html" target="_blank"><img
-            style="padding: 20px;"
-            src="https://static.vecteezy.com/system/resources/thumbnails/016/475/401/small/transparent-drone-uav-in-flight-png.png"
-            height="50" alt="Drone Technology" title="Drone Technology"/>
-    </a>
-    <a href="https://ifr.org/" target="_blank"><img style="padding: 20px;"
-            src="https://robodk.com/robot/img/Annin-Robotics-AR4-robot.png" height="50" alt="Robotics" title="Robotics"/>
-    </a>
-</div>
+---
 
-###
+## 🚀 About Me
 
-<div align="center">
-    <h3 align="left">Contacts 📞.</h3>
-    <a href="https://wa.me/+919548936099" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="whatsapp logo" />
-    </a>
-    <a href="https://www.instagram.com/kishor_yadav_3000?utm_source=qr" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="instagram logo" />
-    </a>
-    <a href="https://www.facebook.com/share/4M5E9aRKSvktW2d6/?mibextid=qi2Omg" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="facebook logo" />
-    </a>
-    <a href="mailto:nandkishor180720@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="gmail logo" />
-    </a>
-    <a href="https://t.me/nandkishor_3000" target="_">
-        <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="telegram logo" />
-    </a>
-    <a href="https://www.linkedin.com/in/nand-kishor-yadav-160935238" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="linkedin logo" />
-    </a>
-    <a href="https://maps.app.goo.gl/SKwGdqqEessn3obt7" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Location&logo=location&label=&color=575a65&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="Location logo" />
-    </a>
-</div>
+I am a **multidisciplinary engineer** blending software development and electronics innovation. With expertise in full stack development, embedded systems, robotics, and automation, I build intelligent systems that merge hardware and software to create cutting-edge solutions.
 
-###
+- 🔭 Currently working on advanced automation systems and IoT solutions
+- 🌱 Learning and exploring AI/ML integration with embedded systems
+- 💬 Ask me about Python, Java, React.js, Embedded C, PCB Design, and Robotics
+- ⚡ Fun fact: I build both software and hardware from scratch
 
-<div align="center">
-    <h3 align="left">Speaking Languages 🗣.</h3>
-    <h4 align="center">Hindi, English</h4>
-</div>
+---
 
-###
+## 🛠️ Tech Stack
 
-<div align="center">
-    <h3 align="left">Educational Qualifications 📚.</h3>
-    <h4 align="center">07/2023&emsp;- &emsp; Diploma in Electronics - 72% <br>[(1137) M.M.I.T Hathras, U.P(204102)]
-    </h4>
-    <h4 align="center">2020&emsp;- &emsp; Senior Secondry - 60% <br>[Shri A.B.M. I.C. Firozabad, U.P(283141)]</h4>
-    <h4 align="center">2018&emsp;- &emsp; Secondry - 64% <br>[Shri A.B.M. I.C. Firozabad, U.P(283141)]</h4>
-</div>
+### 💻 Software Development
 
-###
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python, Java, Kotlin, JavaScript, PHP, C/C++, HTML/CSS |
+| **Frontend** | React.js, Node.js, Tailwind CSS |
+| **Backend** | Node.js, PHP, SQL, REST APIs |
+| **Mobile** | Android SDK, Appium |
+| **Automation** | Selenium, Appium, ADB, Web Scraping |
+| **Tools** | Git, Docker, AWS, Linux, Windows |
 
-<div align="center">
-    <h3 align="left">Professional Experience 🤝.</h3>
-    <h4 align="center">Technical Support Engineer (22 Mar, 2023 - Till Now) <br>Necro Automations | Sector 65, Noida
-    </h4>
-    <h5 align="center" style="margin-top: -20px;">• Delivered prompt and effective technical assistance to clients,
-        resulting in a 30% reduction in average issue resolution time.</h5>
-    <h5 align="center" style="margin-top: -20px;">• Collaborated with the development team to identify recurring
-        software bugs, contributing to a 40% improvement in software stability.</h5>
-    <h5 align="center" style="margin-top: -20px;">• Conducted training sessions for junior team members, elevating
-        their technical competencies and enhancing overall team performance.</h5>
-    <h4 align="center">Research Analyst (22 Dec, 2022 - 22 Mar, 2023) <br>MarkScan | Sector 8, Noida</h4>
-    <h5 align="center" style="margin-top: -20px;">• Utilize cutting-edge data analysis tools and methodologies to
-        detect potential copyright infringement cases.</h5>
-    <h5 align="center" style="margin-top: -20px;">• Collaborate with legal teams to gather, organize, and evaluate
-        evidence related to copyright violation claims.</h5>
-    <h5 align="center" style="margin-top: -20px;">• Collaborate with content creators and rights holders to ensure
-        accurate identification and resolution of infringement cases.</h5>
-</div>
+### 🔧 Electronics & Embedded Systems
 
-###
+| Category | Technologies |
+|----------|--------------|
+| **Microcontrollers** | ESP32, Arduino, ATmega, STM32 |
+| **IoT** | GSM, BLE Mesh, UWB, GPS, WiFi |
+| **PCB Design** | Altium Designer, EasyEDA, Proteus |
+| **Robotics** | Motor Control, Sensors, Actuators |
+| **Domains** | Power Electronics, PLC, Drone Tech |
 
-<div align="center">
-    <h3 align="left">Interests 🥰.</h3>
-    <h4 align="center">• Research New Projects, • Learning New Technologies,<br> • Robotics, • Listening Music.</h4>
-</div>
+---
 
-###
+## 📊 Skills Overview
 
-<div align="center">
-    <h3 align="left">Achievements 🏆.</h3>
-    <h4 align="center">• Facilitated with ‘Best Star Performance’ Award from APSD Lucknow. <br>• Always got first
-        rank in practical exam in college.</h4>
-</div>
+### Software Development
+![Python](https://img.shields.io/badge/Python-95%25-blue?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-95%25-red?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/React-85%25-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=flat-square&logo=node.js&logoColor=white)
+![Android](https://img.shields.io/badge/Android-98%25-3DDC84?style=flat-square&logo=android)
 
-###
+### Electronics & Embedded
+![PCB Design](https://img.shields.io/badge/-95%25PCB%20Design-purple?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT-90%25-orange?style=flat-square)
+![Robotics](https://img.shields.io/badge/Robotics-95%25-cyan?style=flat-square)
+![Embedded%20Systems](https://img.shields.io/badge/Embedded-88%25-green?style=flat-square)
 
-<div align="center">
-    <h3 align="left">Projects & Designs 🖥️✍.</h3>
-    <h4 align="center">• Android Automator <br>•Web App for Automator <br>• Web Scraper ></h4>
-    <h4 align="center">• Hand made Servo Motor <br>• EMG Controlled Robotic arm <br>• Bio Amplifier <br>• Home
-        Automation
-        <br>• Wireless home security system <br>• IOT Based Projects <br>• Quadcopter <br>• Gesture vocalizer <br>•
-        3D Printer <br>• A.I. (Chatbot)
-    </h4>
-    <h4 align="center">• RAMPS 1.4 Controller Board <br>• Battery management system (BMS) <br>• Arduino Shield
-        <br>• Arduino Mini, Uno & Mega <br>• Bio Amplifier <br>• Relay Module
-    </h4>
-</div>
+---
+
+## 💼 Professional Experience
+
+### 🚀 Developer @ [Necro Automations](https://necroautomations.com)
+**2024 - Present** *(Promoted from Technical Support Engineer)*
+
+- Improved software stability by **40%**
+- Reduced resolution time by **30%**
+- Backend development & automation systems
+- Cross-team collaboration
+
+### 🔧 Technical Support Engineer @ [Necro Automations](https://necroautomations.com)
+**2023 - 2024**
+
+- Technical assistance & debugging
+- Client support & training
+- System maintenance and optimization
+
+### 📊 Research Analyst @ [MarkScan](https://markscan.in)
+**Jan 2023 - Mar 2023**
+
+- Data analysis and legal collaboration
+- Copyright investigation
+- Research documentation
+
+### 🎓 Electronics & PCB Design Trainer @ [APSD Innovation Infotech](https://apsdinnovation.com)
+**Training Center**
+
+- Taught electronics fundamentals and PCB design workflows
+- Platforms: Altium Designer, Proteus, EasyEDA
+- Guided schematic capture, component selection, and PCB layout
+- **Best Star Performance Award** for training impact
+
+---
+
+## 🏆 Featured Projects
+
+### 💻 Software Development
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Chatbot (SAM)](https://github.com) | Personal AI assistant with trained NLP model | Python, TensorFlow, React.js |
+| [MechTODO](https://github.com) | Smart Android task manager with reminders | Java/Kotlin, Room DB, Material UI |
+| [Instagram Analytics](https://github.com) | Growth monitoring dashboard | PHP, React.js, Chart.js |
+| [Mech Tracker](https://github.com) | Anti-theft Android + Web platform | Android SDK, GPS, BLE Mesh, UWB |
+| [Android Automator](https://github.com) | Production Instagram automation | Java, Appium, Python |
+| [Google Maps Extractor](https://github.com) | Business data extraction tool | Java, Selenium, Multithreading |
+
+### 🔌 Electronic & Embedded Systems
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [EMG Robotic Arm](https://github.com) | Muscle-controlled robotic arm | Python, Embedded C, Arduino, EMG Sensors |
+| [Smart Solar Monitor](https://github.com) | Real-time environmental analytics | ESP32, ATmega, GSM, REST API |
+| [Custom Servo Motor](https://github.com) | 30kg-cm high-torque smart servo | Embedded C, MOSFET H-Bridge, PCB |
+| [Battery Management](https://github.com) | Smart BMS with protection | Embedded C, PCB Design, IoT |
+| [3D Printer](https://github.com) | Custom-built precision 3D printer | Arduino, C++, PCB Design |
+| [Bio Amplifier](https://github.com) | Medical signal amplifier (ECG/EEG/EMG) | Analog Electronics, PCB Design |
