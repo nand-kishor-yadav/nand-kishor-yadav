@@ -1,123 +1,113 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Electronics+%26+Embedded+Engineer;Robotics+%26+Automation+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;PCB+Design+%26+Hardware+Systems;Robotics+%26+Automation+Systems" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+that+merge+hardware+and+software" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Designing+and+deploying+real-world+hardware+%2B+firmware+systems" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a **multidisciplinary engineer** blending software development and electronics innovation. With expertise in full stack development, embedded systems, robotics, and automation, I build intelligent systems that merge hardware and software to create cutting-edge solutions.
+Embedded Systems Engineer focused on building **end-to-end hardware–firmware systems** for automation, robotics, and solar applications.
 
-- 🔭 Currently working on advanced automation systems and IoT solutions
-- 🌱 Learning and exploring AI/ML integration with embedded systems
-- 💬 Ask me about Python, Java, React.js, Embedded C, PCB Design, and Robotics
-- ⚡ Fun fact: I build both software and hardware from scratch
+I specialize in **ESP32-based architectures, PCB design, and system integration**, with hands-on experience deploying real-world systems involving sensors, actuators, communication protocols, and power electronics.
+
+- 🔭 Building real-world automation and embedded systems
+- ⚙️ Strong in hardware–firmware integration and debugging
+- 📡 Experience with telemetry, IoT, and remote monitoring systems
+- 🧠 Exploring AI/ML integration with embedded platforms
+- ⚡ I build complete systems — from PCB to deployment
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Software Development
-
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | Python, Java, Kotlin, JavaScript, PHP, C/C++, HTML/CSS |
-| **Frontend** | React.js, Node.js, Tailwind CSS |
-| **Backend** | Node.js, PHP, SQL, REST APIs |
-| **Mobile** | Android SDK, Appium |
-| **Automation** | Selenium, Appium, ADB, Web Scraping |
-| **Tools** | Git, Docker, AWS, Linux, Windows |
-
 ### 🔧 Electronics & Embedded Systems
 
 | Category | Technologies |
 |----------|--------------|
-| **Microcontrollers** | ESP32, Arduino, ATmega, STM32 |
-| **IoT** | GSM, BLE Mesh, UWB, GPS, WiFi |
+| **Microcontrollers** | ESP32, ATmega |
+| **Communication** | UART, I2C, SPI, WiFi, GSM (SIM900) |
 | **PCB Design** | Altium Designer, EasyEDA, Proteus |
-| **Robotics** | Motor Control, Sensors, Actuators |
-| **Domains** | Power Electronics, PLC, Drone Tech |
+| **Hardware** | MOSFETs, Motor Drivers, Power Electronics |
+| **Systems** | Debugging, Testing, Integration, Field Deployment |
+
+### 💻 Software Development
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | C/C++, Python, Java |
+| **Automation** | Selenium, Appium |
+| **Tools** | Arduino, Linux, Git |
 
 ---
 
 ## 📊 Skills Overview
 
-### Software Development
-![Python](https://img.shields.io/badge/Python-95%25-blue?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/Java-95%25-red?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-85%25-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=flat-square&logo=node.js&logoColor=white)
-![Android](https://img.shields.io/badge/Android-98%25-3DDC84?style=flat-square&logo=android)
-
-### Electronics & Embedded
-![PCB Design](https://img.shields.io/badge/-95%25PCB%20Design-purple?style=flat-square)
-![IoT](https://img.shields.io/badge/IoT-90%25-orange?style=flat-square)
-![Robotics](https://img.shields.io/badge/Robotics-95%25-cyan?style=flat-square)
-![Embedded%20Systems](https://img.shields.io/badge/Embedded-88%25-green?style=flat-square)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-green?style=flat-square)
+![PCB Design](https://img.shields.io/badge/PCB-Design-blue?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-IoT-orange?style=flat-square)
+![Robotics](https://img.shields.io/badge/Robotics-Automation-purple?style=flat-square)
+![Power Electronics](https://img.shields.io/badge/Power-Electronics-red?style=flat-square)
 
 ---
 
 ## 💼 Professional Experience
 
-### 🚀 Developer @ [Necro Automations]
-**2024 - Present** *(Promoted from Technical Support Engineer)*
+### 🔧 Technical Support Engineer — Necro Automations (2024 – Present)
 
-- Improved software stability by **40%**
-- Reduced resolution time by **30%**
-- Backend development & automation systems
-- Cross-team collaboration
-
-### 🔧 Technical Support Engineer @ [Necro Automations]
-**2023 - 2024**
-
-- Technical assistance & debugging
-- Client support & training
-- System maintenance and optimization
-
-### 📊 Research Analyst @ [MarkScan]
-**Jan 2023 - Mar 2023**
-
-- Data analysis and legal collaboration
-- Copyright investigation
-- Research documentation
-
-### 🎓 Electronics & PCB Design Trainer @ [APSD Innovation Infotech]
-**Training Center**
-
-- Taught electronics fundamentals and PCB design workflows
-- Platforms: Altium Designer, Proteus, EasyEDA
-- Guided schematic capture, component selection, and PCB layout
-- **Best Star Performance Award** for training impact
+- Designed and developed embedded hardware systems and production-ready PCB layouts  
+- Integrated microcontrollers with sensors, actuators, and communication interfaces  
+- Performed advanced debugging and root-cause failure diagnostics across hardware–firmware layers  
+- Built and validated automation and robotics systems for real-world deployment  
+- Developed power electronics solutions including motor drivers and converters  
 
 ---
 
-## 🏆 Featured Projects
+### 🎓 Electronics & PCB Design Trainer — APSD Innovation Infotech (2023 – 2024)
 
-### 💻 Software Development
+- Delivered hands-on training in electronics and PCB design (Altium, Proteus, EasyEDA)  
+- Mentored students in schematic design and PCB layout best practices  
+- Designed practical lab exercises simulating real-world system development  
+- Awarded **Best Star Performance Award**
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Chatbot (SAM)](https://github.com) | Personal AI assistant with trained NLP model | Python, TensorFlow, React.js |
-| [MechTODO](https://github.com) | Smart Android task manager with reminders | Java/Kotlin, Room DB, Material UI |
-| [Instagram Analytics](https://github.com) | Growth monitoring dashboard | PHP, React.js, Chart.js |
-| [Mech Tracker](https://github.com) | Anti-theft Android + Web platform | Android SDK, GPS, BLE Mesh, UWB |
-| [Android Automator](https://github.com) | Production Instagram automation | Java, Appium, Python |
-| [Google Maps Extractor](https://github.com) | Business data extraction tool | Java, Selenium, Multithreading |
+---
 
-### 🔌 Electronic & Embedded Systems
+## 🏆 Featured Embedded Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [EMG Robotic Arm](https://github.com) | Muscle-controlled robotic arm | Python, Embedded C, Arduino, EMG Sensors |
-| [Smart Solar Monitor](https://github.com) | Real-time environmental analytics | ESP32, ATmega, GSM, REST API |
-| [Custom Servo Motor](https://github.com) | 30kg-cm high-torque smart servo | Embedded C, MOSFET H-Bridge, PCB |
-| [Battery Management](https://github.com) | Smart BMS with protection | Embedded C, PCB Design, IoT |
-| [3D Printer](https://github.com) | Custom-built precision 3D printer | Arduino, C++, PCB Design |
-| [Bio Amplifier](https://github.com) | Medical signal amplifier (ECG/EEG/EMG) | Analog Electronics, PCB Design |
+### ⚡ Autonomous Solar Panel Cleaning System
+- Centralized ESP32-S3 control system managing **6 solar panels**
+- Custom motor driver design using DRV8871 and MOSFET switching
+- Fault-tolerant firmware for unattended operation
+- Full system deployment (hardware + firmware)
+
+---
+
+### 📡 Solar Monitoring & Telemetry System
+- Dual-MCU system measuring electrical and environmental parameters
+- WiFi + GSM (SIM900) communication for remote telemetry
+- Real-world tested system for field deployment
+
+---
+
+### ⚙️ Custom High-Torque Smart Servo
+- Closed-loop control system with custom H-bridge driver
+- Achieved **~3× torque improvement**
+- Compatible with standard servo interfaces
+
+---
+
+### 🖨️ Custom 3D Printer
+- Built complete mechanical + electronic system
+- Configured and tuned Marlin firmware
+- Optimized for consistent and repeatable performance
+
+## 💻 Software & Automation Projects
+
+(Keep only 2–3 BEST ones)
+
+- SAM AI Assistant
+- Android Automator
+- Mech Tracker
